@@ -1,6 +1,6 @@
 [Pre-Init] Amethyst INIT!
 [Pre-Init] Version: 1.0-development
-[Pre-Init] Commit: aa507fc (main)
+[Pre-Init] Commit: ab24cbf (main)
 [Pre-Init] Device: iPhone 11
 [Pre-Init] iOS 26.0.1 (23A355) (Unjailbroken)
 [Pre-init] Entitlements availability:
@@ -9,83 +9,19 @@
 * com.apple.private.security.no-sandbox: NO
 [Debugging] Debug log enabled: YES
 [Pre-init] Restored game directory preference (default)
-[VersionList] Got 847 versions
-[MCDL] SHA1 passed for 1.21.1.json
-[MCDL] insertSafety: how to insert assetIndex?
-[MCDL] insertSafety: how to insert assets?
-[MCDL] Warning: JNA version required by fabric-loader-0.17.3-1.21.1 is 5.14.0 > 5.13.0, skipping JNA replacement.
-[MDCL] Skipped library org.lwjgl:lwjgl-freetype:3.3.3
-[MDCL] Skipped library org.lwjgl:lwjgl-freetype:3.3.3:natives-linux
-[MDCL] Skipped library org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-freetype:3.3.3:natives-macos-patch
-[MDCL] Skipped library org.lwjgl:lwjgl-freetype:3.3.3:natives-windows
-[MDCL] Skipped library org.lwjgl:lwjgl-freetype:3.3.3:natives-windows-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-freetype:3.3.3:natives-windows-x86
-[MDCL] Skipped library org.lwjgl:lwjgl-glfw:3.3.3
-[MDCL] Skipped library org.lwjgl:lwjgl-glfw:3.3.3:natives-linux
-[MDCL] Skipped library org.lwjgl:lwjgl-glfw:3.3.3:natives-macos
-[MDCL] Skipped library org.lwjgl:lwjgl-glfw:3.3.3:natives-macos-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-glfw:3.3.3:natives-windows
-[MDCL] Skipped library org.lwjgl:lwjgl-glfw:3.3.3:natives-windows-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-glfw:3.3.3:natives-windows-x86
-[MDCL] Skipped library org.lwjgl:lwjgl-jemalloc:3.3.3
-[MDCL] Skipped library org.lwjgl:lwjgl-jemalloc:3.3.3:natives-linux
-[MDCL] Skipped library org.lwjgl:lwjgl-jemalloc:3.3.3:natives-macos
-[MDCL] Skipped library org.lwjgl:lwjgl-jemalloc:3.3.3:natives-macos-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows
-[MDCL] Skipped library org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-jemalloc:3.3.3:natives-windows-x86
-[MDCL] Skipped library org.lwjgl:lwjgl-openal:3.3.3
-[MDCL] Skipped library org.lwjgl:lwjgl-openal:3.3.3:natives-linux
-[MDCL] Skipped library org.lwjgl:lwjgl-openal:3.3.3:natives-macos
-[MDCL] Skipped library org.lwjgl:lwjgl-openal:3.3.3:natives-macos-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-openal:3.3.3:natives-windows
-[MDCL] Skipped library org.lwjgl:lwjgl-openal:3.3.3:natives-windows-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-openal:3.3.3:natives-windows-x86
-[MDCL] Skipped library org.lwjgl:lwjgl-opengl:3.3.3
-[MDCL] Skipped library org.lwjgl:lwjgl-opengl:3.3.3:natives-linux
-[MDCL] Skipped library org.lwjgl:lwjgl-opengl:3.3.3:natives-macos
-[MDCL] Skipped library org.lwjgl:lwjgl-opengl:3.3.3:natives-macos-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-opengl:3.3.3:natives-windows
-[MDCL] Skipped library org.lwjgl:lwjgl-opengl:3.3.3:natives-windows-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-opengl:3.3.3:natives-windows-x86
-[MDCL] Skipped library org.lwjgl:lwjgl-stb:3.3.3
-[MDCL] Skipped library org.lwjgl:lwjgl-stb:3.3.3:natives-linux
-[MDCL] Skipped library org.lwjgl:lwjgl-stb:3.3.3:natives-macos
-[MDCL] Skipped library org.lwjgl:lwjgl-stb:3.3.3:natives-macos-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-stb:3.3.3:natives-windows
-[MDCL] Skipped library org.lwjgl:lwjgl-stb:3.3.3:natives-windows-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-stb:3.3.3:natives-windows-x86
-[MDCL] Skipped library org.lwjgl:lwjgl-tinyfd:3.3.3
-[MDCL] Skipped library org.lwjgl:lwjgl-tinyfd:3.3.3:natives-linux
-[MDCL] Skipped library org.lwjgl:lwjgl-tinyfd:3.3.3:natives-macos
-[MDCL] Skipped library org.lwjgl:lwjgl-tinyfd:3.3.3:natives-macos-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows
-[MDCL] Skipped library org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl-tinyfd:3.3.3:natives-windows-x86
-[MDCL] Skipped library org.lwjgl:lwjgl:3.3.3
-[MDCL] Skipped library org.lwjgl:lwjgl:3.3.3:natives-linux
-[MDCL] Skipped library org.lwjgl:lwjgl:3.3.3:natives-macos
-[MDCL] Skipped library org.lwjgl:lwjgl:3.3.3:natives-macos-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl:3.3.3:natives-windows
-[MDCL] Skipped library org.lwjgl:lwjgl:3.3.3:natives-windows-arm64
-[MDCL] Skipped library org.lwjgl:lwjgl:3.3.3:natives-windows-x86
-[MCDL] Unknown artifact object for org.ow2.asm:asm:9.9, attempting to generate one
-[MCDL] Warning: couldn't find SHA for /private/var/mobile/Containers/Data/Application/7FE87CC6-73D3-4756-AE3C-4F9ECF51E1E2/Documents/Library/Application Support/minecraft/libraries/org/ow2/asm/asm/9.9/asm-9.9.jar, have to assume it's good.
-[MCDL] Unknown artifact object for org.ow2.asm:asm-analysis:9.9, attempting to generate one
-[MCDL] Warning: couldn't find SHA for /private/var/mobile/Containers/Data/Application/7FE87CC6-73D3-4756-AE3C-4F9ECF51E1E2/Documents/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar, have to assume it's good.
-[MCDL] Unknown artifact object for org.ow2.asm:asm-commons:9.9, attempting to generate one
-[MCDL] Warning: couldn't find SHA for /private/var/mobile/Containers/Data/Application/7FE87CC6-73D3-4756-AE3C-4F9ECF51E1E2/Documents/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar, have to assume it's good.
-[MCDL] Unknown artifact object for org.ow2.asm:asm-tree:9.9, attempting to generate one
-[MCDL] Warning: couldn't find SHA for /private/var/mobile/Containers/Data/Application/7FE87CC6-73D3-4756-AE3C-4F9ECF51E1E2/Documents/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar, have to assume it's good.
-[MCDL] Unknown artifact object for org.ow2.asm:asm-util:9.9, attempting to generate one
-[MCDL] Warning: couldn't find SHA for /private/var/mobile/Containers/Data/Application/7FE87CC6-73D3-4756-AE3C-4F9ECF51E1E2/Documents/Library/Application Support/minecraft/libraries/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar, have to assume it's good.
-[MCDL] Unknown artifact object for net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7, attempting to generate one
-[MCDL] Warning: couldn't find SHA for /private/var/mobile/Containers/Data/Application/7FE87CC6-73D3-4756-AE3C-4F9ECF51E1E2/Documents/Library/Application Support/minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar, have to assume it's good.
-[MCDL] Unknown artifact object for net.fabricmc:intermediary:1.21.1, attempting to generate one
-[MCDL] Warning: couldn't find SHA for /private/var/mobile/Containers/Data/Application/7FE87CC6-73D3-4756-AE3C-4F9ECF51E1E2/Documents/Library/Application Support/minecraft/libraries/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar, have to assume it's good.
-[MCDL] Unknown artifact object for net.fabricmc:fabric-loader:0.17.3, attempting to generate one
-[MCDL] Warning: couldn't find SHA for /private/var/mobile/Containers/Data/Application/7FE87CC6-73D3-4756-AE3C-4F9ECF51E1E2/Documents/Library/Application Support/minecraft/libraries/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar, have to assume it's good.
+[VersionList] Got 848 versions
+[ModInstaller] Main class version: 52.0
+[ModInstaller] launching /private/var/mobile/Containers/Data/Application/E68EEC7E-9A2F-4448-AFEA-B7A25AB3DB89/tmp/org.angelauramc.amethyst.J5342J8K85-Inbox/OptiFine_1.21.1_HD_U_J1.jar
 [JavaLauncher] Beginning JVM launch
-[DyldLVBypass] init
-[DyldLVBypass] found dyld_mmap at 0x18a5e2cd8
+[JavaLauncher] Reading custom environment variables
+[JavaLauncher] Warning: skipped empty value custom env variable: 
+[JavaLauncher] Looking for Java 8 or later
+[JavaLauncher] JAVA_HOME has been set to /private/var/containers/Bundle/Application/0EF60035-6D12-4056-B829-DF02CF43705B/AngelAuraAmethyst.app/java_runtimes/java-8-openjdk
+[JavaLauncher] Max RAM allocation is set to 963 MB
+[JavaLauncher] Reading custom JVM flags
+[Init] Found JLI lib
+[Init] Calling JLI_Launch
+Unrecognized VM option 'MirrorMappedCodeCache'
+Error: Could not create the Java Virtual Machine.
+Error: A fatal exception has occurred. Program will exit.
+exit(1) called
